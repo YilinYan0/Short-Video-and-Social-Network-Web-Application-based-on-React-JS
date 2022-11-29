@@ -1,13 +1,9 @@
-# A-Cloud-and-React-based-Social-Network•	Designed and implemented a short-video web application with React JS. 
+# Short-Video and Social Network Web Application based on React JS
 
-•	Designed and implemented a short-video web application with React JS. 
+•	Implemented the creating/browsing/searching posts features that allow users to interact with each other
 
-•	Implemented features for users to create and browse posts and support search nearby posts.
-
-•	Improved the authentication using JWT token based registration/login/logout flow with React Router v4. 
+•	Employed JWT token based registration/login/logout flow with React Router v4 to improve the authentication
 
 •	Developed the main functions in Go to handle posts and deployed to Google Cloud (Google App Engine) 
 
-•	Utilized ElasticSearch to optimize search functions such that users can search recent posts and list personal posts.
-
-
+•	Optimized the searching functions with ElasticSearch to enable users' to search for recent posts and list personal posts
